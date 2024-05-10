@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pattanachai</h1>
 
+### Full Stack Developer
+----------------------------
+
 ### 🚀 About Me
-### • Programmer / Developer
 
 *  💬  I am a new graduate from Rajamangala University of Technology Isan Field of Study: Computer Science. <br>
 
