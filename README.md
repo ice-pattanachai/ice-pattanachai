@@ -11,6 +11,8 @@
 
 * 🌍  I'm based in Nakhon Ratchasima , Thailand
 
+* ✉️  You can contact me at : <a>pattanachaikhaikham@gmail.com</a>
+
 ### 🌐 Socials 
 
 <p align="left"> 
