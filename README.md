@@ -9,9 +9,11 @@
 
 *  📌  I'm a fullstack developer I'm learning about writing a website with React.js, Next.js.
 
-* 🌍  I'm based in Nakhon Ratchasima , Thailand
+*  🌍  I'm based in Nakhon Ratchasima , Thailand
 
-* ✉️  You can contact me at : <a>pattanachaikhaikham@gmail.com</a>
+*  ✉️  You can contact me at : <a>pattanachaikhaikham@gmail.com</a>
+
+*  💬  My native language is Thai. I'm not good at English. Please don't criticize me for my grammar.
 
 ### 🌐 Socials 
 
