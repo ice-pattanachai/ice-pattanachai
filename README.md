@@ -13,7 +13,10 @@
 
 *  ✉️  You can contact me at : <a>pattanachaikhaikham@gmail.com</a>
 
+*  🌐  More details about me on the website: <a>https://pattanachai.vercel.app/</a>
+
 *  💬  My native language is Thai. I'm not good at English. Please don't criticize me for my grammar.
+
 
 ### 🌐 Socials 
 
